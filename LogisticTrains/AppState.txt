@@ -1,0 +1,300 @@
+Locomotive: Information about Locomotive --->BIG-BANNY( StartStation : Station : 87, EndStation : Station : 18, CarriageNumber : B337, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-WOLF( StartStation : Station : 30, EndStation : Station : 36, CarriageNumber : 97E3, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-BEN( StartStation : Station : 42, EndStation : Station : 79, CarriageNumber : B3B4, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-HARRY( StartStation : Station : 43, EndStation : Station : 94, CarriageNumber : F48B, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-OSCAR( StartStation : Station : 67, EndStation : Station : 90, CarriageNumber : 3D64, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-COSTAS( StartStation : Station : 13, EndStation : Station : 60, CarriageNumber : 5543, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-BEAR( StartStation : Station : 87, EndStation : Station : 65, CarriageNumber : C5CF, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-FLOWER( StartStation : Station : 79, EndStation : Station : 39, CarriageNumber : 3656, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-COLORIUS( StartStation : Station : 10, EndStation : Station : 78, CarriageNumber : D401, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-LC34( StartStation : Station : 54, EndStation : Station : 20, CarriageNumber : 7BD0, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-TETCZIS( StartStation : Station : 83, EndStation : Station : 39, CarriageNumber : 4D7E, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->BIG-TWISTER( StartStation : Station : 65, EndStation : Station : 69, CarriageNumber : 82B2, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->OLD-LOCOMOTIVE( StartStation : Station : 18, EndStation : Station : 77, CarriageNumber : 4CE5, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->JEAM-BEAM( StartStation : Station : 6, EndStation : Station : 76, CarriageNumber : EB27, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->JACK-DAN( StartStation : Station : 61, EndStation : Station : 30, CarriageNumber : 1EC6, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->ROL-AND( StartStation : Station : 65, EndStation : Station : 4, CarriageNumber : 1D7B, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->RO-FIGHT( StartStation : Station : 53, EndStation : Station : 50, CarriageNumber : 4A63, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->THINK-DO( StartStation : Station : 63, EndStation : Station : 8, CarriageNumber : E627, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->20-PLEASE( StartStation : Station : 57, EndStation : Station : 53, CarriageNumber : 0B8D, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->POP-LOP( StartStation : Station : 56, EndStation : Station : 6, CarriageNumber : DC70, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->RED-GREEN( StartStation : Station : 70, EndStation : Station : 15, CarriageNumber : 40FF, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->LAST-ROW( StartStation : Station : 92, EndStation : Station : 52, CarriageNumber : DC5E, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->START-KOL( StartStation : Station : 50, EndStation : Station : 14, CarriageNumber : 68E0, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->UGLY-VAMPIRE( StartStation : Station : 49, EndStation : Station : 78, CarriageNumber : 10C7, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
+Locomotive: Information about Locomotive --->TOM-SKI( StartStation : Station : 30, EndStation : Station : 89, CarriageNumber : 234E, maximumNumOfRailRoadCarriage: 10, maxElectricCarriages : 9, isConnected : true, weightOfTransportedLoad : 100000 )
+Carriages:
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PassangerCarriage -->( Name : Nazar, PassangerWeight : 2171,  WeightNetto : 5000, WeightBrutto : 7171, SeatPlace : 44, PriceOfPlace :25 $ , isConnected : true, CarriageNumber : 8C26)
+Information about PostCarriage -->( Name : PS-54, PostContainer: 25, PostWeight : 3881,  WeightNetto : 4500, WeightBrutto : 8381, isConnected : true, CarriageNumber : 7289)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about ExplosiveCarriage -->( Name : EX-L4, LoadCapacity: 140, BodyVolume : 93 M^3,  WeightNetto : 6000, WeightBrutto : 7317, ProductName : Clot-Monete, IsDangerous : true, LiquedWeight : 1317, CarriageNumber : 6AAF)
+Information about BasicCommodityCarriage -->( Name : BASIC, LoadCapacity: 120, BodyVolume : 80 M^3,  WeightNetto : 5000 KG, WeightBrutto : 5000 KG, CarriageNumber : 75DB)
+Information about GazCarriage -->( Name : Gas-78, LoadCapacity: 150, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 6995, NumbersOfTanks : 7, WeightOfProduct: 135, WeightOfTanks: 150, CarriageNumber : 1415)
+Information about LiquidCarriage -->( Nadawca : L-98, LoadCapacity: 140, BodyVolume : 90 M^3,  WeightNetto : 5000, WeightBrutto : 5650, ProductName : rs-none, IsToxic : false, LiquidWeight : 650, CarriageNumber : F5AA)
+
+
